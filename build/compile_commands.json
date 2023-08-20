@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/akeda/Projects/rot_img/build",
+  "command": "/usr/bin/clang++ -isystem /opt/homebrew/Cellar/opencv/4.8.0_1/include/opencv4 -g -std=gnu++17 -arch arm64 -o CMakeFiles/rot_img.dir/rot_img.cpp.o -c /Users/akeda/Projects/rot_img/rot_img.cpp",
+  "file": "/Users/akeda/Projects/rot_img/rot_img.cpp",
+  "output": "CMakeFiles/rot_img.dir/rot_img.cpp.o"
+}
+]

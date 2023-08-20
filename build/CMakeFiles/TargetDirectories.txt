@@ -1,0 +1,3 @@
+/Users/akeda/Projects/rot_img/build/CMakeFiles/rot_img.dir
+/Users/akeda/Projects/rot_img/build/CMakeFiles/edit_cache.dir
+/Users/akeda/Projects/rot_img/build/CMakeFiles/rebuild_cache.dir
